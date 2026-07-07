@@ -1,4 +1,5 @@
-# Tarea #3 - Dashboards en Python "Panama-Metropolitan-Medical"
+# Tarea #3 - Dashboards en Python 
+# "Panama-Metropolitan-Medical"
 ### Asignatura: Análisis de Datos y Toma de Decisiones para Computación
 ### Grupo: 1IL133
 ### Integrantes:  
